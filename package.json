@@ -21,7 +21,13 @@
     "babel-loader": "^6.2.4",
     "babel-preset-es2015": "^6.9.0",
     "babel-preset-react": "^6.11.1",
+    "events": "^1.1.1",
     "express": "^4.13.3",
+    "express-graphql": "^0.5.3",
+    "flux": "^2.1.1",
+    "graphql": "^0.6.1",
+    "kerberos": "0.0.21",
+    "mongodb": "^2.2.2",
     "react": "^0.14.3",
     "react-dom": "^0.14.3",
     "webpack": "^1.12.2"
